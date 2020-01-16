@@ -3,7 +3,7 @@ The learning experience of the S.S.S has its own github repo now! This is where 
 
 
 ## Homework Assignments
-You'll be given a homework assignment to do for the week. This is because **practice makes perfect**. We'll be basing these assignments from CodeWars, which will have a lot of practices you can do that will improve your ability to problem solve, as well as become familiar with patterns that will show up throughout problems we face!
+You'll be given a homework assignment to do every night for the week. This is because **practice makes perfect**. We'll be basing these assignments from CodeWars, which will have a lot of practices you can do that will improve your ability to problem solve, as well as become familiar with patterns that will show up throughout problems we face!
 
 
 ## Weekly Schedule
