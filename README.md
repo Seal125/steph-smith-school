@@ -2,8 +2,10 @@
 The learning experience of the S.S.S has its own github repo now! This is where you'll input your homework assignments, as well as look at the best solutions for them. If you would like to join the slack channel to stay up-to-date with any updates or changes, let me know and I'll add you!
 
 
+
 ## Homework Assignments
 You'll be given a homework assignment to do every night for the week. This is because **practice makes perfect**. We'll be basing these assignments from CodeWars, which will have a lot of practices you can do that will improve your ability to problem solve, as well as become familiar with patterns that will show up throughout problems we face!
+
 
 
 ## Weekly Schedule
