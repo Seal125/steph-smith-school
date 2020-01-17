@@ -8,13 +8,3 @@ String will never be empty and you do not need to account for different data typ
 '''
 
 # Start coding here!
-
-
-'''
-Tetris Scoring System - https://www.codewars.com/kata/5da9af1142d7910001815d32
-
-
-Calculate the final score of the game using original Nintendo scoring system.
-'''
-
-#Start coding here
