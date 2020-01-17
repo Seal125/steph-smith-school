@@ -8,7 +8,7 @@ You'll be given a homework assignment to do every night for the week. This is be
 
 
 ### How to Submit a Homework Assignment
-Each class will be in a different **branch**. To access these classes, navigate to the drop-down menu where it will likely say **master**. Click on it, and you should see a bunch of branches with the class dates. Select the class that you would like to submit the homework to, and create a pull request for that branch with the homework file modified to hold your answer.
+Each class will be in a different **branch**. To access these classes, navigate to the drop-down menu where it will likely say **master**. Click on it, and you should see a bunch of branches with the class dates. On your text editor, type in `git pull origin (class branch)`, select the class that you would like to submit the homework to, and create a pull request for that branch with the homework file modified to hold your answer.
 
 
 ## Weekly Schedule
