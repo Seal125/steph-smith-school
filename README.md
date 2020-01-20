@@ -1,5 +1,5 @@
 # Welcome to Steph Smith School!
-The learning experience of the S.S.S has its own github repo now! This is where you'll input your homework assignments, as well as look at the best solutions for them. If you would like to join the slack channel to stay up-to-date with any updates or changes, let me know and I'll add you!
+The learning experience of the S.S.S has its own github repo now! This is where we will refer to for coding challenges, fluency tests, and homework. If you would like to join the slack channel to stay up-to-date with any updates or changes, let me know and I'll add you!
 
 
 ## Getting Started
