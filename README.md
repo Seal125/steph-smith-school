@@ -11,7 +11,7 @@ You'll be given a homework assignment to do every night for the week. This is be
 
 
 ### How to Submit a Homework Assignment
-Each class will be in a different **branch**. To make sure that you're in the right branch, make sure that in your text editor, it says the date of the most recent class and _not_ master. Push up your homework assignments and create a pull request for that branch.
+I want you guys to slack me your hw-exercise file so that I can keep track of how you guys are doing in regards to problem solving! **Make sure that you show me your PEDAC process as well in the file, so I can see what you're doing good in and what you could keep in mind for the future!**
 
 
 ## Weekly Schedule
