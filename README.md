@@ -2,10 +2,6 @@
 The learning experience of the S.S.S has its own github repo now! This is where we will refer to for coding challenges, fluency tests, and homework. If you would like to join the slack channel to stay up-to-date with any updates or changes, let me know and I'll add you!
 
 
-## Getting Started
-At the beginning of each class, come to this repo and check for the latest class branch. Once you have the date in mind, go to your text editor and type in `git pull origin (name of branch)`. This will pull in all the files from that branch. Make sure that **you are in the branch you pulled in** by doing `git checkout (name of branch)`. Once you are in that branch, you can interact with the files as you please!
-
-
 ## Homework Assignments
 You'll be given a homework assignment to do every night for the week. This is because **practice makes perfect**. We'll be basing these assignments from CodeWars, which will have a lot of practices you can do that will improve your ability to problem solve, as well as become familiar with patterns that will show up throughout problems we face!
 
